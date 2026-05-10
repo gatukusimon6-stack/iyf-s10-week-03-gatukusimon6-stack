@@ -4,7 +4,7 @@ This project was basically met to teach me how to use the terminal and command l
 
 ## Live Demo
 
-[View Live Site](https://gatukusimon6-stack.github./iyf-s10-week-03-gatukusimon6-stack)
+[View Live Site](https://github.com/gatukusimon6-stack/iyf-s10-week-03-gatukusimon6-stack.git)
 
 ---
 
