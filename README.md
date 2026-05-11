@@ -24,21 +24,21 @@ This project was basically met to teach me how to use the terminal and command l
 ## Project Structure
 
 \`\`\`
-iyf-s10-week-03-yourusername/
+my-project/
 
-├── index.html
+├── src/
 
-├── about.html
+│   ├── css/
 
-├── projects.html
+│   ├── js/
 
-├── contact.html
+│   └── images/
 
-├── css/
+├── docs/
 
-│   └── styles.css
+├── tests/
 
-└── images/
+└── README.md
 \`\`\`
 
 ## What I Learned
